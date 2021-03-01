@@ -1,0 +1,10 @@
+Python Cookbook,B.K.Jones,21,$32
+HeadFirstPython,Paul Barry,10,$18
+The 1632,Eric Flint,50,$10
+As I Lay Dying,W. Faulkner,12,$12
+Skippy Dies,Paul Murray,64,$10
+Difficult Women,Roxane Gay,74,$9
+So Sad Today,Melissa Broder,52,$10
+Green Migraine,M. Dickman,12,$12
+The 1985,Anthony Burgess,84,$3
+Persuasion,Jane Austen,40,$50
